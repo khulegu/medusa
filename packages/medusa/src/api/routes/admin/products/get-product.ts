@@ -93,7 +93,7 @@ export default async (req, res) => {
   const product = rawProduct
 
   const decoratePromises: Promise<any>[] = []
-  if (!shouldSetPricing) {
+  if (shouldSetPricing) {
     decoratePromises.push(pricingService.setProductPrices([product]))
   }
 
