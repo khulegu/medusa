@@ -1,5 +1,15 @@
 # @medusajs/admin-ui
 
+## 2.1.6
+
+### Patch Changes
+
+- [#5456](https://github.com/medusajs/medusa/pull/5456) [`ea2ee343f`](https://github.com/medusajs/medusa/commit/ea2ee343f0f2bee347d0e2a3ece2eb3252564c67) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): PriceList bulk editor fixes
+
+- [#5467](https://github.com/medusajs/medusa/pull/5467) [`f08a295ad`](https://github.com/medusajs/medusa/commit/f08a295ad4e2886b9df5c4c4471c0f4e004fc1d9) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(admin-ui): fix analytics config not being saved in invite form
+
+- [#5428](https://github.com/medusajs/medusa/pull/5428) [`ebba93e03`](https://github.com/medusajs/medusa/commit/ebba93e03d223fb3a79276090f7cfad612d70243) Thanks [@olivermrbl](https://github.com/olivermrbl)! - fix(medusa): Update status type in API payload definition
+
 ## 2.1.5
 
 ### Patch Changes

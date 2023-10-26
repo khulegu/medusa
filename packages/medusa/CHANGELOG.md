@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.17.3
+
+### Patch Changes
+
+- [#5075](https://github.com/medusajs/medusa/pull/5075) [`e64823d1b`](https://github.com/medusajs/medusa/commit/e64823d1b9e7556d8bc12c553accefa0b2a8b714) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(medusa): totals calculation with gift card
+
+- [#5468](https://github.com/medusajs/medusa/pull/5468) [`a45da9215`](https://github.com/medusajs/medusa/commit/a45da9215d2a7834c368037726aaa3961caadaf9) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(medusa, modules-sdk, modules): Module loading was missing the expected dependencies and remote query reference fix
+
+- [#5428](https://github.com/medusajs/medusa/pull/5428) [`ebba93e03`](https://github.com/medusajs/medusa/commit/ebba93e03d223fb3a79276090f7cfad612d70243) Thanks [@olivermrbl](https://github.com/olivermrbl)! - fix(medusa): Update status type in API payload definition
+
+- Updated dependencies [[`a45da9215`](https://github.com/medusajs/medusa/commit/a45da9215d2a7834c368037726aaa3961caadaf9), [`5c77029cb`](https://github.com/medusajs/medusa/commit/5c77029cb021690a4f617b83b4999ed55bf9dea1)]:
+  - @medusajs/link-modules@0.2.2
+  - @medusajs/modules-sdk@1.12.2
+  - @medusajs/orchestration@0.4.3
+
 ## 1.17.2
 
 ### Patch Changes

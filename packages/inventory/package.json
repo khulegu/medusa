@@ -1,6 +1,6 @@
 {
   "name": "@medusajs/inventory",
-  "version": "1.11.1",
+  "version": "1.11.2",
   "description": "Inventory Module for Medusa",
   "main": "dist/index.js",
   "repository": {
@@ -25,7 +25,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "@medusajs/modules-sdk": "^1.12.1",
+    "@medusajs/modules-sdk": "^1.12.2",
     "@medusajs/utils": "^1.10.4",
     "awilix": "^8.0.0",
     "typeorm": "^0.3.16"
